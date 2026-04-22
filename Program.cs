@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// Test application
+
+Console.WriteLine("Hello, WORLD!");
+
 
 // Реверс строки 
 
@@ -21,5 +24,3 @@ static string ReverseString(string input)
 string input = "Строка для тестирования программы";
 Console.WriteLine($"Исходная строка: {input}");
 Console.WriteLine($"Перевернутая строка: {ReverseString(input)}");
-
-
