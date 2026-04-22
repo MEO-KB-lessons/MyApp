@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+// Test application
+
+Console.WriteLine("Hello, WORLD!");
